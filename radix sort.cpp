@@ -44,10 +44,9 @@ void RadixSort(int* a, int n){
 }
 int main(){
     int n=6;
-    //cout << "enter n : " << endl;
-    //cin >> n;
+
     int a[]={55, 40, 50, 73, 35, 39};
-    //cout << "enter data : " << endl;
+
     cout << "enter 6 numbers : " << endl;
     for(int i=0;i<n;i++){
         cin >> a[i];
