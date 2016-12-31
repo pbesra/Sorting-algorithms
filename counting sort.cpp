@@ -1,3 +1,4 @@
+// counting sort
 #include <iostream>
 using namespace std;
 void CountingSort(int* a, int n, int Max){ //hashing starts from here
